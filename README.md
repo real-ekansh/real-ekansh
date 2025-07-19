@@ -20,6 +20,11 @@ Data Mining, Blogging, Web Development, Coding.
 
 ## I'm Founder of SpaceOS, HyperFederation, HyperTech Community and Co-Founder of DevSpace, WingAndroid, HyperGriot Bot.
 
+### Computer Languages: 
+- Python
+- Java
+- HTML
+
 ### Projects:  
 
  • SpaceOS (Pending)
