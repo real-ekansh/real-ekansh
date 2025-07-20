@@ -1,6 +1,6 @@
 # About Me
 
-## I am Ekansh Bhavik, a Student who is passionate with Technology. I'm a Gamer. Developer, Coder, Blogger, Data Miner and Ex-Theme Designer / Moderator (Xiaomi Global)
+## I am Ekansh Bhavik, a Student who is passionate with Technology. I'm a Gamer. Developer, Coder, Blogger, Data Miner, Data Analyst and Ex-Theme Designer / Moderator (Xiaomi Global)
 
 Lets start with my Basic Information.
 
@@ -10,7 +10,7 @@ Lets start with my Basic Information.
 
 **Age:** 16 
 
-**Pronoun**: He/Hi
+**Pronoun**: He/Him
 
 **Country:** India
 
