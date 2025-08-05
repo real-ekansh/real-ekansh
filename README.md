@@ -31,7 +31,7 @@ Data Mining, Blogging, Web Development, Coding.
 
  • HyperFederation Bot (Done)
 
- • HyperGriot Bot (Working On it)
+ • HyperGriot Bot (Done)
 
  ## 📊 GitHub Stats:
 
