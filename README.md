@@ -1,6 +1,6 @@
 # About Me
 
-## I am Ekansh Bhavik, a Student who is passionate with Technology. I'm a Gamer. Developer, Coder, Blogger, Data Miner, Data Analyst and Ex-Theme Designer / Moderator (Xiaomi Global)
+# I am Ekansh Bhavik, a Student who is passionate with Technology. I'm a Gamer. Developer, Coder, Blogger, Data Miner, Data Analyst and Ex-Theme Designer / Moderator (Xiaomi Global)
 
 Lets start with my Basic Information.
 
@@ -18,7 +18,7 @@ Lets start with my Basic Information.
 
 Data Mining, Blogging, Web Development, Coding.
 
-### I'm Founder of SpaceOS, HyperFederation, HyperTech Community and Co-Founder of DevSpace, WingAndroid, HyperGriot Bot.
+#### I'm Founder of SpaceOS, HyperFederation, HyperTech Community and Co-Founder of DevSpace, WingAndroid, HyperGriot Bot.
 
 ### Computer Languages: 
 - Python
@@ -27,7 +27,7 @@ Data Mining, Blogging, Web Development, Coding.
 
 ### Projects:  
 
- • SpaceOS (Pending)
+ • ShinkaFileMan (Pending)
 
  • HyperFederation Bot (Done)
 
