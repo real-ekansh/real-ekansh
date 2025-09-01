@@ -60,3 +60,36 @@ Student, Developer, Data Analyst, Data Miner, Blogger, Porter, Modder, Coder, De
 [![Reddit](https://img.shields.io/badge/Reddit-FF4500?style=for-the-badge&logo=reddit&logoColor=white)](https://www.reddit.com/user/Dead_Rider0021/)
 [![Quora](https://img.shields.io/badge/Quora-B92B27?style=for-the-badge&logo=quora&logoColor=white)](https://www.quora.com/profile/WingAndroid?ch=10&oid=2756165465&share=72c398e9&srid=3syEH3&target_type=user)
 [![Pinterest](https://img.shields.io/badge/Pinterest-BD081C?style=for-the-badge&logo=pinterest&logoColor=white)](https://pin.it/5SrIebITs)
+
+##  Now Playing on Spotify
+<p align="center">
+  <img src="https://spotify-github-profile.vercel.app/api/view?31y3byst2aq4t5ikhdtta7u5ytne=31fgh4c7klpsbvb3aybz5m7fshm4&cover_image=true&theme=novatorem&bar_color=53b14f&bar_color_cover=true" alt="Spotify Now Playing"/>
+</p>
+
+##  Quote of the Day
+<p align="center">
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical" alt="quote"/>
+</p>
+
+##  GitHub Stats & Streaks
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=real-ekansh&show_icons=true&theme=radical&hide_border=true&count_private=true" height="165"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=real-ekansh&layout=compact&theme=radical&hide_border=true" height="165"/>
+</p>
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=real-ekansh&theme=radical&hide_border=true" alt="Streak Stats"/>
+</p>
+
+##  GitHub Trophies
+
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=real-ekansh&theme=radical&no-frame=true&no-bg=true&margin-w=15&margin-h=15" />
+</p>
+
+##  Contribution Graph
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=real-ekansh&theme=radical&bg_color=0d1117&hide_border=true" />
+</p>
