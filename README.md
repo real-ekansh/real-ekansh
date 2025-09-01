@@ -63,7 +63,7 @@ Student, Developer, Data Analyst, Data Miner, Blogger, Porter, Modder, Coder, De
 
 ##  Spotify Now Playing
 
-[![Spotify](https://spotify-github-profile.vercel.app/api/view?uid=31y3byst2aq4t5ikhdtta7u5ytne&cover_image=true&theme=novatorem&show_offline=false&background_color=121212&interchange=true)](https://open.spotify.com/user/31y3byst2aq4t5ikhdtta7u5ytne)
+![Spotify](https://spotify-github-profile.vercel.app/api/view?uid=31y3byst2aq4t5ikhdtta7u5ytne&cover_image=true&theme=novatorem&show_offline=false&background_color=121212&interchange=true)
 
 ##  Quote of the Day
 <p align="center">
