@@ -59,11 +59,7 @@ Student, Developer, Data Analyst, Data Miner, Blogger, Porter, Modder, Coder, De
 [![Discord](https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white)](https://discordapp.com/users/not_real_ekansh)
 [![Reddit](https://img.shields.io/badge/Reddit-FF4500?style=for-the-badge&logo=reddit&logoColor=white)](https://www.reddit.com/user/Dead_Rider0021/)
 [![Quora](https://img.shields.io/badge/Quora-B92B27?style=for-the-badge&logo=quora&logoColor=white)](https://www.quora.com/profile/WingAndroid?ch=10&oid=2756165465&share=72c398e9&srid=3syEH3&target_type=user)
-[![Pinterest](https://img.shields.io/badge/Pinterest-BD081C?style=for-the-badge&logo=pinterest&logoColor=white)](https://pin.it/5SrIebITs)
-
-##  Spotify Now Playing
-
-![Spotify](https://spotify-github-profile.vercel.app/api/view?uid=31y3byst2aq4t5ikhdtta7u5ytne&cover_image=true&theme=novatorem&show_offline=false&background_color=121212&interchange=true)
+[![Pinterest](https://img.shields.io/badge/Pinterest-BD081C?style=for-the-badge&logo=pinterest&logoColor=white)](https://pin.it/5SrIebITs)
 
 ##  Quote of the Day
 <p align="center">
