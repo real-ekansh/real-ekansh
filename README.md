@@ -37,7 +37,7 @@ Student, Developer, Data Analyst, Data Miner, Blogger, Porter, Modder, Coder, De
   <img src="https://img.shields.io/badge/Material%203-121212?style=for-the-badge&logo=materialdesign&logoColor=00C853" alt="Material 3"/>
 </p>
 
-## ✨ Founded by Wing  
+##  Founded by Wing  
 
 [![HyperTech Community](https://img.shields.io/badge/HyperTech%20Community-5875F2?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/hypertechupdates)  
 [![HyperTech Discord](https://img.shields.io/badge/HyperTech%20Community-5865F2?style=for-the-badge&logo=discord&logoColor=white)](https://discord.gg/jF4HzzpU)  
@@ -49,3 +49,14 @@ Student, Developer, Data Analyst, Data Miner, Blogger, Porter, Modder, Coder, De
 [![Wing's Basement](https://img.shields.io/badge/Wing's%20Basement-FF4500?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/WingsBasement)  
 [![DevSpace (Co-Founded)](https://img.shields.io/badge/DevSpace%20(Co%E2%80%91Founded)-1E90FF?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/DevSpaceOfficial)
 
+##  Connect With Me
+
+[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/real-ekansh)
+[![Website](https://img.shields.io/badge/Portfolio-FF7139?style=for-the-badge&logo=firefox&logoColor=white)](https://real-ekansh.github.io)
+[![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](http://t.me/not_real_ekansh)
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/not_real_ekansh?igsh=MTY4bGJ0b3k2NXFsNg==)
+[![X (Twitter)](https://img.shields.io/badge/Twitter-000000?style=for-the-badge&logo=x&logoColor=white)](https://x.com/Wing_Android)
+[![Discord](https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white)](https://discordapp.com/users/not_real_ekansh)
+[![Reddit](https://img.shields.io/badge/Reddit-FF4500?style=for-the-badge&logo=reddit&logoColor=white)](https://www.reddit.com/user/Dead_Rider0021/)
+[![Quora](https://img.shields.io/badge/Quora-B92B27?style=for-the-badge&logo=quora&logoColor=white)](https://www.quora.com/profile/WingAndroid?ch=10&oid=2756165465&share=72c398e9&srid=3syEH3&target_type=user)
+[![Pinterest](https://img.shields.io/badge/Pinterest-BD081C?style=for-the-badge&logo=pinterest&logoColor=white)](https://pin.it/5SrIebITs)
