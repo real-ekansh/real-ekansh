@@ -61,10 +61,9 @@ Student, Developer, Data Analyst, Data Miner, Blogger, Porter, Modder, Coder, De
 [![Quora](https://img.shields.io/badge/Quora-B92B27?style=for-the-badge&logo=quora&logoColor=white)](https://www.quora.com/profile/WingAndroid?ch=10&oid=2756165465&share=72c398e9&srid=3syEH3&target_type=user)
 [![Pinterest](https://img.shields.io/badge/Pinterest-BD081C?style=for-the-badge&logo=pinterest&logoColor=white)](https://pin.it/5SrIebITs)
 
-##  Now Playing on Spotify
-<p align="center">
-  <img src="https://spotify-github-profile.vercel.app/api/view?31y3byst2aq4t5ikhdtta7u5ytne=31fgh4c7klpsbvb3aybz5m7fshm4&cover_image=true&theme=novatorem&bar_color=53b14f&bar_color_cover=true" alt="Spotify Now Playing"/>
-</p>
+##  Spotify Now Playing
+
+[![Spotify](https://spotify-github-profile.vercel.app/api/view?uid=31y3byst2aq4t5ikhdtta7u5ytne&cover_image=true&theme=novatorem&show_offline=false&background_color=121212&interchange=true)](https://open.spotify.com/user/31y3byst2aq4t5ikhdtta7u5ytne)
 
 ##  Quote of the Day
 <p align="center">
