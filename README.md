@@ -16,11 +16,16 @@ Hello there! I'm **Ekansh**, also known online as **WingAndroid** and **not_real
 # About Wing
 
 **Name**: Ekansh Bhavik (Ekansh)
+
 **Nickname**: WingAndroid / EK4XSH 
+
 **Age**: 16 
 **Pronoun**: He/Him
+
 **Country**: India 
+
 **State**: Uttar Pradesh 
+
 **Timezone**: IST (UTC+5:30)
 
 ## Roles & Skills
